@@ -22,8 +22,8 @@ And lastly, there is a [roadmap](https://github.com/orgs/EVEShipFit/projects/1) 
 There are four ways you can show your support for EVEShip.fit:
 
 - GitHub Sponsors, with real-life money.
-- In-game donations to the character `EVEShipFit`, with in-game ISK.
-- In-game contracts to the character `EVEShipFit`; only contracts in Jita are accepted (and please give us 14 days to accept).
+- In-game donations to the character [EVEShipFit](https://evewho.com/character/2121714820), with in-game ISK.
+- In-game contracts to the character [EVEShipFit](https://evewho.com/character/2121714820); only contracts in Jita are accepted (and please give us 14 days to accept).
 - By contributing code or ideas in one of the repositories.
 
 For the latter, we also run an incentive program, where you can contribute ISK towards a feature, which is granted to the person who implements it.
