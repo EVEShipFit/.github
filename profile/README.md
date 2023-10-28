@@ -14,3 +14,5 @@ For more detailed look how these goals are accomplished, check out the individua
 - [dogma-engine](https://github.com/EVEShipFit/dogma-engine) - Library to calculate statistics for EVE Online ship fits, written in Rust.
 - [react](https://github.com/EVEShipFit/react) - React component library to quickly and easily show EVE Online ship fits in your own application.
 - [eveship.fit](https://github.com/EVEShipFit/eveship.fit) - Public frontend for EVEShip.fit (hosted on [https://eveship.fit](https://eveship.fit)).
+
+And lastly, there is a [roadmap](https://github.com/orgs/EVEShipFit/projects/1) to show you what is being worked on.
