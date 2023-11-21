@@ -17,6 +17,10 @@ For more detailed look how these goals are accomplished, check out the individua
 
 And lastly, there is a [roadmap](https://github.com/orgs/EVEShipFit/projects/1) to show you what is being worked on.
 
+## Join the community
+
+Questions? Suggestions? Just want to have a chat? Join us [on Discord](https://discord.gg/S5V5BkvNf7).
+
 ## Donations
 
 There are four ways you can show your support for EVEShip.fit:
