@@ -33,7 +33,7 @@ For more detailed look how these goals are accomplished, check out the individua
 
 There are four ways you can show your support for EVEShip.fit:
 
-- GitHub Sponsors, with real-life money.
+- [GitHub Sponsors](https://github.com/sponsors/EVEShipFit), with real-life money.
 - In-game donations to the corp [EVEShip.fit](https://evewho.com/corporation/98753333), with in-game ISK.
 - In-game contracts to the corp [EVEShip.fit](https://evewho.com/corporation/98753333); only contracts in Jita are accepted (and please give us 14 days to accept).
 - By contributing code or ideas in one of the repositories.
