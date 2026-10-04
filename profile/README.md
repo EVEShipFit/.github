@@ -5,9 +5,9 @@ It allows you to view fits (via EFT or import one from in-game), create new fits
 
 Please report bugs [here](https://github.com/EVEShipFit/roadmap/issues).
 
-## Roadmap
+## Have a feature request?
 
-There is a [roadmap](https://github.com/orgs/EVEShipFit/projects/1) to show you what is being worked on.
+Please request missing features [here](https://github.com/orgs/EVEShipFit/discussions/categories/ideas).
 
 ## Join the community
 
@@ -26,8 +26,8 @@ Additionally, make it easy for others to reuse parts of this project, to embed i
 For more detailed look how these goals are accomplished, check out the individual repositories:
 
 - [dogma-engine](https://github.com/EVEShipFit/dogma-engine) - Library to calculate statistics for EVE Online ship fits, written in Rust.
-- [react](https://github.com/EVEShipFit/react) - React component library to quickly and easily show EVE Online ship fits in your own application.
-- [eveship.fit](https://github.com/EVEShipFit/eveship.fit) - Public frontend for EVEShip.fit (hosted on [https://eveship.fit](https://eveship.fit)).
+- [eveship.fit](https://github.com/EVEShipFit/eveship.fit) - Frontend for EVEShip.fit (hosted on [https://eveship.fit](https://eveship.fit)).
+  Contains all the components to show fits on your own website.
 
 ## Donations
 
