@@ -1,13 +1,16 @@
 EVEShip.fit is an online tool available on [https://eveship.fit](https://eveship.fit).
 It allows you to view fits (via EFT or import one from in-game), create new fits, and share links to fits with others.
 
-## Found a bug?
+## Found a bug? Have a feature request?
 
-Please report bugs [here](https://github.com/EVEShipFit/roadmap/issues).
+Please open an issue in the repository it belongs to:
 
-## Have a feature request?
+- [eveship.fit](https://github.com/EVEShipFit/eveship.fit/issues): anything about the website. Think layout, buttons, sharing fits, importing and exporting.
+- [dogma-engine](https://github.com/EVEShipFit/dogma-engine/issues): anything about the numbers. Think wrong stats, like DPS, capacitor, tank, or speed.
 
-Please request missing features [here](https://github.com/orgs/EVEShipFit/discussions/categories/ideas).
+Not sure where it belongs?
+Just pick the one that feels closest.
+We will move it if needed.
 
 ## Join the community
 
@@ -31,7 +34,7 @@ For more detailed look how these goals are accomplished, check out the individua
 
 ## Donations
 
-There are four ways you can show your support for EVEShip.fit:
+There are three ways you can show your support for EVEShip.fit:
 
 - [GitHub Sponsors](https://github.com/sponsors/EVEShipFit), with real-life money.
 - In-game donations to the corp [EVEShip.fit](https://evewho.com/corporation/98753333), with in-game ISK.
